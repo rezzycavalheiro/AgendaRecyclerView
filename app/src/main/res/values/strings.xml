@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AgendaRecycler</string>
+    <string name="add_button">Button to add a new element</string>
+    <string name="user_name">User name</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone</string>
+    <string name="phone_type">Phone type</string>
+    <string name="agenda_title">Agenda</string>
+    <string name="add_new_user">Add new user</string>
+    <string name="undo">Undo</string>
+    <string name="phone_title">Phone</string>
+    <string name="name_title_2">Name</string>
+    <string name="name_hint_2">Name</string>
+    <string name="phone_type_spinner">Phone Type</string>
+    <string name="address_title">Address</string>
+    <string name="address_hint">Address</string>
+    <string name="phone_number">Phone number</string>
+    <string name="save">SAVE</string>
+    <string name="name_hint">Name</string>
+    <string name="name_title">Name</string>
+</resources>
